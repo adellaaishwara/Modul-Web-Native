@@ -4,4 +4,4 @@
 # Modul Web Native Ukl 1
 ![Alt text](https://github.com/adellaaishwara/Modul-Web-Native/blob/master/Ukl%201.PNG)
 # Modul Web Native Ukl 2
-![Alt text](https://github.com/adellaaishwara/Modul-Web-Native/blob/master/Ukl%209.PNG)
+![Alt text](https://github.com/adellaaishwara/Modul-Web-Native/blob/master/Modul%20Ukl%202.PNG)
